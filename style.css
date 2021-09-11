@@ -1,0 +1,51 @@
+/* >>>>>>>>>>>>>header css <<<<<<<<<<<<<<<< */
+/* .navbar{
+    background-color: rgb(197, 196, 196); */
+}
+
+.main-section-bg{
+    background: #f9f9ff;
+}
+/* .navbar-brand img{
+    width: 90px;
+}
+/* .navbar img{
+    width: 100px;
+} */
+.navbar{
+    color: black;
+}
+/* .img {
+    width: 113px;
+/* } */
+/* .menuSection{
+    margin-left: 220px !important;
+
+} */ */
+
+/* .menuimg{
+    width: 219px;
+} */ */
+img {
+    width: 100%;
+}
+button.btn{
+    background: #8490ff;
+    color: white;
+}
+
+
+.personal-img{
+    width: 90%;
+    height: auto;
+}
+.personalDtl p{
+    font-size: 25px;
+}
+.namber-counter{
+    background-color: #8490ff;
+    
+}
+.namber-counter p{
+    color: white;
+}
